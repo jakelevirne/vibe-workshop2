@@ -1,0 +1,10 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#87CEEB" /> {/* Sky blue background */}
+  <circle cx="100" cy="100" r="40" fill="yellow" /> {/* Sun */}
+  {/* Clouds */}
+  <ellipse cx="200" cy="80" rx="50" ry="20" fill="white" />
+  <ellipse cx="250" cy="100" rx="60" ry="25" fill="white" />
+  <ellipse cx="320" cy="90" rx="40" ry="15" fill="white" />
+  {/* Beach */}
+  <path d="M0 150 Q 200 200 400 150 L 400 200 L 0 200 Z" fill="#F4A460" /> {/* Sandy brown beach */}
+</svg>
